@@ -10,3 +10,5 @@ app.use("/hello",(req,res)=>{
 });
 
 app.listen(3000, ()=>{console.log("We are using the SERVER")});
+
+//thanks for the comments
